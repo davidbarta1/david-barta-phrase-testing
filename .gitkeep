@@ -1,0 +1,15 @@
+# This is a .gitkeep file
+
+# Purpose:
+# The .gitkeep file is used to include an empty directory in Git.
+
+# Dummy Data:
+# Below is some dummy data for demonstration purposes.
+
+{
+  "project": "Sample Project",
+  "directory": "empty_directory",
+  "purpose": "Keep this directory in Git even if it has no other files."
+}
+
+# End of dummy data
