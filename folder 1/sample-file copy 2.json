@@ -8,7 +8,7 @@
           "author": "Harper Lee",
           "isbn": "978-0061120084",
           "publishedDate": "1960-07-11",
-          "genres": ["Fiction", "Classics", "Historical"],
+          "genres": ["Fiction", "Classics", "Historically"],
           "availableCopies": 4
         },
         {
@@ -16,7 +16,7 @@
           "author": "George Orwell",
           "isbn": "978-0451524935",
           "publishedDate": "1949-06-08",
-          "genres": ["Fiction", "Dystopian", "Science Fiction"],
+          "genres": ["Fiction", "Dystopian", "Science Fictions"],
           "availableCopies": 6
         },
         {
@@ -29,7 +29,7 @@
         },
         {
           "title": "Moby Dick",
-          "author": "Herman Melville",
+          "author": "Herman Melvilles",
           "isbn": "978-1503280786",
           "publishedDate": "1851-10-18",
           "genres": ["Fiction", "Classics", "Adventure"],
